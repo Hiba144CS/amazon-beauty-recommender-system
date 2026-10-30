@@ -300,3 +300,14 @@ amazon-beauty-recommender-system/
 - Computer Science Department
 - Course: CS3081 – Artifical Intelligence
 - Instructor: Dr. Passent Elkafrawy
+
+## Project Contributors
+
+This project was collaboratively developed by:
+
+- **Hiba Amanulla** — [GitHub](https://github.com/Hiba144CS)
+- **Ghala Al-Ghamdi** — [GitHub](https://github.com/gghalaa)
+
+Both contributors participated equally in the development, implementation, and evaluation of this project.
+
+The project was completed collaboratively before being uploaded to GitHub.
